@@ -3,6 +3,7 @@
 - CTR based recommendation system
 - Regression and classification based recsys will not be here as they are too geenric
 
-## Wide n' deep, deepfm, sar coming up
-
- 
+# Coming up
+## Wide n' deep, deepfm, sar
+## Auto hyper parameter tuning
+## Tips and tricks...and lot more 
